@@ -1,0 +1,8 @@
+const GET_MOVE  = 'GET_MOVE',
+    CHANGE_DATA ='CHANGE_DATA',
+    SHOW_SCROLL = 'SHOW_SCROLL';
+export {
+    GET_MOVE,
+    CHANGE_DATA,
+    SHOW_SCROLL
+}
