@@ -8,53 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f67dfc-65cd-4d12-a3bf-64e6f2a98b67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/api/detail.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/api/headerList.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/api/home.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/api/homeList.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/api/login.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/store/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/commons/Header/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/loadable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/store/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/details/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/component/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/component/Recommed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/component/Topic.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/component/Writer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/store/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/home/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/store/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/store/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/login/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page/writer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/statics/iconfont/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -83,10 +37,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/page/details/loadable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+            <state relative-caret-position="261">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#8#33#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -183,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="176" />
     <option name="y" value="307" />
     <option name="width" value="1642" />
@@ -198,52 +152,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="details" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="janes_book" type="b2602c69:ProjectViewProjectNode" />
-              <item name="janes_book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,18 +210,17 @@
       <workItem from="1556179235853" duration="6193000" />
       <workItem from="1556273393796" duration="183000" />
       <workItem from="1556780053041" duration="625000" />
-      <workItem from="1557017758116" duration="29312000" />
+      <workItem from="1557017758116" duration="30170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67376000" />
+    <option name="totallyTimeSpent" value="68234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="176" y="307" width="1642" height="696" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643392" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14910433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -326,7 +234,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.053380784" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35683298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -770,10 +678,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page/details/loadable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        <state relative-caret-position="261">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#8#33#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
